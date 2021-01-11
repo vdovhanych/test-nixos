@@ -58,3 +58,6 @@ Popis konfigurace NixOS configuration.nix
   - Ukázková databáze "testDB" login stejný jako systém
     - Setup pro zobrazování aktuálních cen crypta a zda jsou podporovány v Trezoru. Rozděleno na name,supportedont,currentprice,rise
     
+    
+    
+Virtual disk image ke stažení zde - https://dovh.synology.me/drive/d/f/597716298266353693
