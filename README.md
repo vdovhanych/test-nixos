@@ -61,3 +61,6 @@ Popis konfigurace NixOS configuration.nix
     
     
 Virtual disk image ke stažení zde - https://dovh.synology.me/drive/d/f/597716298266353693
+user - dovh
+pass - dovh
+root - dovh 
