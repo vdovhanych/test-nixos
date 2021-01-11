@@ -1,4 +1,4 @@
-# nixos-lemp
+# test-nixos
 
 
 Krátka dokumentace postupu instalace NixOS, konfigurace configuration.nix, vytvoření a konfigurace základní sql databáze.
